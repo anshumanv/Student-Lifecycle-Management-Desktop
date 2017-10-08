@@ -41,14 +41,18 @@ function createMainWindow() {
 		y: mainWindowState.y,
 		width: mainWindowState.width,
 		height: mainWindowState.height,
-		minWidth: 600,
+		minWidth: 900,
 		minHeight: 500,
+		width: 1200,
+		height: 700,
 		webPreferences: {
 			plugins: true,
 			allowDisplayingInsecureContent: true,
-			nodeIntegration: true
+			nodeIntegration: true,
+			devTools: false
 		},
-		show: false
+		show: false,
+		autoHideMenuBar: true
 	});
 
 	win.on('focus', () => {
