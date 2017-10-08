@@ -16,7 +16,7 @@ const mainURL = 'file://' + path.join(__dirname, '../renderer', 'index.html');
 const APP_ICON = path.join(__dirname, '../resources', 'icon');
 
 const iconPath = () => {
-	return APP_ICON + (process.platform === 'win32' ? '.ico' : '.png');
+	return APP_ICON + '.png';
 };
 
 // Function to handle 'closed' event
