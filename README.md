@@ -21,17 +21,14 @@ $ npm start
 
 <details>
 	<summary>Team  M<sup>2</sup>A<sup>3</sup></summary>
-	* [Monal Shadi](https://github.com/Monal5031)
-	* [Mohit Kumar Yadav](https://github.com/mohitkyadav)
-	* [Anshuman Verma](https://github.com/anshumanv)
-	* [Aashutosh Rathi](https://github.com/aashutoshrathi)
-	* [Avtans Kumar](https://github.com/vanguard07)
+		<ul>
+			<li><a href="https://github.com/Monal5031">Monal Shadi</a></li>
+			<li><a href="https://github.com/mohitkyadav">Mohit Kumar Yadav</a></li>
+			<li><a href="https://github.com/anshumanv">Anshuman Verma</a></li>
+			<li><a href="https://github.com/aashutoshrathi">Aashutosh Rathi</a></li>
+			<li><a href="https://github.com/vanguard07">Avtans Kumar</a></li>
+		</ul>
 </details>
-
-
-[<img src="https://image.flaticon.com/icons/svg/34/34238.svg" width="50" padding="10">](https://twitter.com/Anshumaniac12)
-[<img src="https://www.shareicon.net/download/2015/11/02/665921_internet.svg" width="50" padding="10">](https://linkedin.com/in/anshumanv12)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" padding="10">](https://github.com/anshumanv)
 
 ## Contribute
 Found a bug, please [create an issue](https://github.com/anshumanv/Student-Lifecycle-Management-Desktop/issues/new)
