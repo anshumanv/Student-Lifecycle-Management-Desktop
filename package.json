@@ -29,11 +29,11 @@
   "homepage": "https://github.com/anshumanv/Student-Lifecycle-Management-Desktop#readme",
   "devDependencies": {
     "electron": "^1.7.8",
-    "xo": "^0.18.2"
+    "xo": "^0.20.3"
   },
   "dependencies": {
-    "components-font-awesome": "^4.6.3",
-    "electron-context-menu": "^0.8.0",
+    "components-font-awesome": "^5.0.6",
+    "electron-context-menu": "^0.9.1",
     "electron-debug": "^1.4.0",
     "electron-window-state": "^4.1.1",
     "jquery": "^3.2.1"
